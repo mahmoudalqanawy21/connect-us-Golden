@@ -114,16 +114,7 @@ a:link {
     
 }
 
-.map-container {
-    text-align: center;
-    margin-top: 20px;
-}
 
-.map-container iframe {
-    max-width: 800px;
-    width: 100%;
-    border-radius: 10px;
-}
 
 /* Responsive Design */
 @media (max-width: 600px) {
