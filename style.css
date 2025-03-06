@@ -114,6 +114,23 @@ a:link {
     
 }
 
+.map-container {
+    text-align: center;
+    margin: 20px auto;
+    max-width: 800px;
+}
+
+.map-container h2 {
+    font-size: 22px;
+    margin-bottom: 10px;
+}
+
+.map-container iframe {
+    width: 100%;
+    height: 400px;
+    border-radius: 10px;
+}
+
 /* Responsive Design */
 @media (max-width: 600px) {
     header h1 {
